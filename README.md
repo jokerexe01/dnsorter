@@ -1,3 +1,3 @@
 Hey Folks!
-This is my code to sort all the domains from any string
+This is my Firsrt code to sort all the domains from any string
 J0K34..
