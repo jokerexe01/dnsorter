@@ -1,6 +1,5 @@
 import re
 
-# Take the file path as user input
 file_path = input("Enter the path to the text file containing URLs: ")
 
 # Read the content of the file
